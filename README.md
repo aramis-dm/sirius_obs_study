@@ -1,3 +1,4 @@
+
 # Sirius Observation Study
 
 This is a small Python project to dynamically model the heliacal rising of the star Sirius for a given place and date, so as to assist with planning an observation run.
@@ -7,13 +8,13 @@ It's intended solely for personal development and combines my interest in Python
 ## To setup this workbook:
 
 - Clone the repository:
-  git clone https://github.com/aramis-dm/sirius_obs_study.git
-  cd sirius_obs_study
+  ```git clone https://github.com/aramis-dm/sirius_obs_study.git```
+  ```cd sirius_obs_study```
 - Create and activate a virtual environment:
-  python -m venv venv
-  source venv/bin/activate
+  ```python -m venv venv```
+  ```source venv/bin/activate```
 - update pip and install the requirements:
-  python -m pip install pip --ugrade
-  pip install -r requirements.txt
+  ```python -m pip install pip --ugrade```
+  ```pip install -r requirements.txt```
 - Run Jupyter Lab workbook
-  jupyter lab sirius_obs_study.ipynb
+  ```jupyter lab sirius_obs_study.ipynb```
