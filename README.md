@@ -3,7 +3,7 @@
 
 This is a small Python project to dynamically model the heliacal rising of the star Sirius for a given place and date, so as to assist with planning an observation run.
 
-It's intended solely for personal development and combines my interest in Python coding with some basic astronomy concepts. It demonstrates the use of the Astropy and Astroplan packages to fetch realtime posistions of the Sun, Sirius, and Moon. It uses dimensionalized values, transforms them to a local observation context, confirm their rise times, and plot their positions with Matplotlib.
+It's intended solely for personal development and combines my interest in Python coding with some basic astronomy concepts. It demonstrates the use of the Astropy and Astroplan packages to fetch realtime positions of the Sun, Sirius, and Moon. It uses dimensionalized values, transforms them to a local observation context, confirms their rise times, and plots their positions with Matplotlib.
 
 ## To setup this workbook:
 
