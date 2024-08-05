@@ -13,7 +13,7 @@ It's intended solely for personal development and combines my interest in Python
 - Create and activate a virtual environment:  
   ```python -m venv venv```  
   ```source venv/bin/activate```  
-- update pip and install the requirements:  
+- Update pip and install the requirements:  
   ```python -m pip install pip --upgrade```  
   ```pip install -r requirements.txt```  
 - Run Jupyter Lab workbook  
