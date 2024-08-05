@@ -9,18 +9,18 @@ It's intended solely for personal development and combines my interest in Python
 
 Clone the repository:
 ```bash
-$ git clone https://github.com/aramis-dm/sirius_obs_study.git
-$ cd sirius_obs_study
+git clone https://github.com/aramis-dm/sirius_obs_study.git
+cd sirius_obs_study
 ```
 Create and activate a virtual environment:  
 ```bash
-$ python -m venv venv
-$ source venv/bin/activate  
+python -m venv venv
+source venv/bin/activate  
 ```  
 Update pip and install the requirements:  
 ```bash
-$ python -m pip install pip --upgrade
-$ pip install -r requirements.txt
+python -m pip install pip --upgrade
+pip install -r requirements.txt
 ```
 Run Jupyter Lab workbook  
 ```bash
