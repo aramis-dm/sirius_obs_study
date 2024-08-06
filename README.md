@@ -25,7 +25,7 @@ Update pip and install the requirements:
 python -m pip install pip --upgrade
 pip install -r requirements.txt
 ```
-Run Jupyter Lab workbook  
+Run JupyterLab workbook  
 ```bash
 jupyter lab sirius_obs_study.ipynb  
 ```
